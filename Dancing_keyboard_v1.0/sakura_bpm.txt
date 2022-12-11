@@ -1,0 +1,161 @@
+default_easy.txt
+sakura
+154
+35
+
+        
+q       q       
+q       q       
+q       q       
+s   s   s   s   
+    h       h   
+    h       h   
+    h       h   
+s   s   s   s   
+    h       h   
+    h       h   
+    h       h   
+s   s   s   s   
+    h       h   
+    h       h   
+    h       h   
+s   s   s   s   
+    h       h   
+    h       h   
+    h       h   
+s   s   s   s   
+d       f       
+h       k       
+r   r   r   r   
+h   s   k   k   
+h       j       
+n       k       
+a       t       
+i   c   b   m   
+k       s       
+h       t   h   
+t       s       
+n       n h h   
+s   n   s   j   
+s   m   s   u   
+y     m n   m   
+n   s   s   s   
+b       r       
+r       r   k   
+n       m       
+d       y   k   
+w       g       
+g       r   s   
+d   t   t   d   
+m       t   s   
+z   s   i       
+k   n   m   n   
+k   u   m       
+k   n   y   s   
+r   n   r       
+r   k   t   s   
+k   s   j   d   
+u   n   t   h   
+    h       h   
+    h       h   
+    h       h   
+s   s   s   s   
+    h       h   
+    h       h   
+    h       h   
+s   s   s   s   
+h       r       
+m       s       
+i       k       
+o   r   d   c   
+a       k       
+m       a       
+s       k       
+o   t   s   s   
+s       m       
+k       t   h   
+a       j       
+y       i h h   
+k       s       
+d       e   h   
+s     a i   m   
+(ns)   s   s   s   
+b       r       
+r       r   k   
+n       m       
+d       y   k   
+w       u       
+g       r   s   
+d   t   t   d   
+m       t   s   
+z   s   i       
+k   n   m   n   
+k   u   m       
+k   n   y   k   
+o   n   k       
+r   k   t       
+s   k   d   o   
+u   a   r       
+    h       h   
+    h       h   
+    h       h   
+u   a   r   s   
+    h       h   
+    h       h   
+    h       h   
+d k   t e   p t 
+    h       h   
+    h       h   
+    h       h   
+u   a   r   s   
+    h       h   
+    h       h   
+    h       h   
+                
+    h       h   
+    h       h   
+    h       h   
+j   p   c c c   
+k   j   s   o   
+h   n   t   h   
+t   h   s   s   
+n   n   n h h   
+n   c   n   c   
+s   m   s   u   
+y     m n   m   
+n           s   
+b   z   r       
+r   m   r   k   
+n   k   m       
+d   n   y   k   
+w   u   g       
+g   n   r   s   
+d   t   t   d   
+t   o   t   s   
+b   z   r       
+r   m   r   k   
+g   u   i       
+k   o   r   k   
+w   u   g       
+g   n   r   s   
+k   s   j   d   
+u   m   r   h   
+    h       h   
+s   s   s   s   
+    h       h   
+s   s   s   s   
+    h       h   
+s   s   s   s   
+    h       h   
+s   s   s   s   
+j   p   j   p   
+j   p   j   p   
+j   p   j   p   
+g   b r j   p   
+j   p   j   p   
+j   p   j   p   
+j   p   j   p   
+j   p   c c c   
+            h   
+            
+

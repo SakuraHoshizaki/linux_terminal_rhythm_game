@@ -1,0 +1,130 @@
+default_normal.txt
+echo
+140
+460
+                
+                
+e   c   h   o   
+e c h o     t   
+c   s   t     f 
+e v a g       h 
+l h i b u       
+i d   k 
+    i   k   l   
+w   b i k l   g 
+      t w s a n 
+t   t h o t   t 
+        y   k i 
+  c     y   k i 
+  c     c   o l 
+  o     r   u   
+c       p   k i 
+  b     p   k i 
+  b     k   l f 
+  a     f   r   
+e   (ew) t 
+h   g   o   k   
+s   t   p       
+y   s   f   t   
+c   o t v   i   
+b   i   w   n   
+s   i   r   m   
+e   m   v   b   
+d   h   f       
+t b l l   f     
+m t i k   t     
+w i u a g     t 
+e   c   h   o   
+e   c   h   o   
+e c h o e c h o 
+e   c   h   o   
+e c h o e c h o 
+b   l   a   c   
+k               
+w   h   i   t   
+e               
+l   e   f   t   
+a   n   d       
+r   i   g   h   
+t               
+f   l   a   s   
+h   i   n   g   
+l   i   g   h   
+t               
+e       c       
+h       o       
+e       c       
+h       o       
+f   r   o   m   
+s   k   y       
+                
+b   r   o   c   
+k   e   n       
+m   i   r   r   
+o   r           
+s   h   i   n   
+i   n   g       
+s   h   a   r   
+p               
+p   i   e   c   
+e   s           
+                
+i   n           
+m   y           
+h   e   a   r   
+t               
+                
+b   u   t       
+                
+w   h   o       
+                
+a   m       
+i   g n b m h   
+d   t n u   b   
+i   g n r a w   
+n   a n v   b   
+i   g n b m h   
+d   t n u   b   
+i   g n r a w   
+n   a n v   b   
+i   g n b m h   
+d   t n u   b   
+i   g n r a w   
+n   a n v   b   
+i   g n b m h   
+d   t n u   b   
+i   g n r a w   
+n   a n v   b   
+i   g n b m h   
+d   a n v   b       
+a n v l b       
+a n v l b   w t 
+h   g   o   k   
+s   t   p       
+y   s   f   t   
+c   o t v   i   
+b   i   w   n   
+s   i   r   m   
+e   m   v   b   
+d   h   f   w t 
+h   g   o   k   
+s   t   p       
+y   s   f   t   
+c   o t v   i   
+b   i   w   n   
+s   i   r   m   
+e   m   v   b   
+d   h   f       
+t b l l   f     
+m t i k   t     
+w i u a g     t 
+e   c   h   o   
+t b l l   f     
+m t i k   t     
+w i u a g     t 
+e   c   h   o   
+
+
+
+
+
